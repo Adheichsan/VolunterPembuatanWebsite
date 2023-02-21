@@ -7,4 +7,3 @@ Repository ini digunakan untuk melakukan pembelajaran Studi Kasus tentang Kolabo
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Melody Salsabilla, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
